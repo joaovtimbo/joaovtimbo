@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Victor!
 
-- 👾 Aprendendo HTML5, CSS3 e JavaScript
+- 👾 Aprendendo HTML5, CSS3 e JavaScript...
 
 <div align="center">
   <a href="https://github.com/joaovtimbo">
