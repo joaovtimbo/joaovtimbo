@@ -1,7 +1,7 @@
 ## Fala ae, eu sou o João Victor! 🐱‍👤
 
 <div>
-  <a href="https://www.instagram.com/joraumm/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/joraumm/" {:target="_blank"}><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-timb%C3%B3-martins-da-silva-821887221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div/>
 
