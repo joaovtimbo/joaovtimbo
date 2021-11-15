@@ -1,23 +1,21 @@
-## Fala ae, eu sou o João Victor! 👾 
-<div align="center">
-  <a href="https://github.com/joaovtimbo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovtimbo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovtimbo&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+### Fala ae, eu sou o João Victor! 🐱‍👤
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joraumm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-timb%C3%B3-martins-da-silva-821887221/)
+
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovtimbo&show_icons=true&theme=highcontrast&count_private=true)
   
-  ##
+### Tecnologias que eu uso... 
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" />
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
+</div><br/>
   
-  <div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+  - Apaixonado por tecnologia. <br/>
+  - Motivado para evoluir na área de programação.
