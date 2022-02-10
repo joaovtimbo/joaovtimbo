@@ -13,7 +13,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
 </div><br/>
   
   - Apaixonado por tecnologia. <br/>
