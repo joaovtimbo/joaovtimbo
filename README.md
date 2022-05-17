@@ -13,5 +13,4 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
 </div><br/>
   
-  - Technology enthusiastic. <br/>
   - Inspired to evolve in coding area.
