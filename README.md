@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 🚀 Exploring new technologies and developing software solutions and quick hacks.
+- 🚀 Exploring new technologies and developing software solutions.
 
 - 📫 How to reach me **joaov.timbo@gmail.com**
 
