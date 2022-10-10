@@ -20,6 +20,21 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovtimbo&show_icons=true&locale=en" alt="joaovtimbo" /></p>
 
+ ## Front-End Technologies:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="React"/></code>
+<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass"/></code>
+
+ 
+ ## Back-End Technologies:
+ 
+ <code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="JAVA"/></code>
+<code><img height="50" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="HBS"/></code>
+
+<code><img height="50" src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icono-de-lenguaje-de-programacion-php.png" alt="HBS"/></code>
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
