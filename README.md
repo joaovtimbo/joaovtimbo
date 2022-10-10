@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"><img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" />
+![](https://img.shields.io/github/followers/albinagorta?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/albinagorta?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=albinagorta&style=flat-square&color=ff69b4)
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
@@ -22,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovtimbo&show_icons=true&locale=en&layout=compact" alt="joaovtimbo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaovtimbo&show_icons=true&locale=en" alt="joaovtimbo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovtimbo&" alt="joaovtimbo" /></p>
