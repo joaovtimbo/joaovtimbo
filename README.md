@@ -1,9 +1,7 @@
-![](https://img.shields.io/github/followers/albinagorta?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/albinagorta?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=albinagorta&style=flat-square&color=ff69b4)
 <h1 align="center">Hi 👋, I'm João Victor</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+![GitHub User's stars](https://img.shields.io/github/stars/joavtimbo?label=%E2%AD%90GitHub%20stars&style=flat-square)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaovtimbo&label=Profile%20views&color=0e75b6&style=flat" alt="joaovtimbo" /> </p>
 
 - 🌱 I’m currently learning **react**
