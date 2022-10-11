@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am João Victor Timbó 👨‍💻 
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am João Victor Timbó 👨‍💻 
 
 ![](https://img.shields.io/github/followers/albinagorta?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/albinagorta?label=%E2%AD%90GitHub%20stars&style=flat-square)
