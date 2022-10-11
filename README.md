@@ -6,7 +6,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am João Victor Timbó 👨‍💻 
 
-# How to reach me:
+<h1>How to reach me:</h1>
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a href="https://linkedin.com/in/joaovtimbo" target="blank"><img height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="João Victor Timbó" width="30" /></a>
 </div>
