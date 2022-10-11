@@ -12,7 +12,6 @@
 # How to reach me:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a href="https://linkedin.com/in/joaovtimbo" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="João Victor Timbó" width="30" /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:joaov.timbo@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" alt="João Victor Timbó" /></a>
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'> João Victor Timbó | 👨‍💻 Front-End Developer | Brazil </p>
@@ -20,7 +19,7 @@
 
 <br />
 
-<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat">
+
 
 - 🎓 &nbsp; Technologist in System Development and Analysis
 - 🌱 &nbsp; I’m currently learning **react**
