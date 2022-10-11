@@ -67,7 +67,7 @@
 
 
 - 💻 &nbsp;
-  ![Java](	https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
+  ![Java](	https://img.shields.io/badge/Java-14354C?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 - 🌐 &nbsp;
