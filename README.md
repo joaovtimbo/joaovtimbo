@@ -22,7 +22,7 @@
 
 
 - 🎓 &nbsp; Technologist in System Development and Analysis
-- 🌱 &nbsp; I’m currently learning **react**
+- 🌱 &nbsp; I’m currently learning **react** and **sass**
 - 🚀 &nbsp; Exploring new technologies and developing software solutions.
 - 📫 &nbsp; How to reach me **joaov.timbo@gmail.com**
 
