@@ -39,7 +39,7 @@
  
  ## Back-End Technologies:
  
- <code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="JAVA"/></code>
+<code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="JAVA"/></code>
 <code><img height="50" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="HBS"/></code>
 
 <code><img height="50" src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icono-de-lenguaje-de-programacion-php.png" alt="HBS"/></code>
@@ -69,12 +69,9 @@
 
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![codeigniter](https://img.shields.io/badge/-Codeigniter-333333?style=flat&logo=codeigniter)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -88,34 +85,18 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-
-- 📴 &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-  ![React Native](https://img.shields.io/badge/-ReactNavite-333333?style=flat&logo=react)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Sublime text](https://img.shields.io/badge/-Sublime%20text-333333?style=flat&logo=sublimetext)
-  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
-  ![NetBeans](https://img.shields.io/badge/-NetBeans-333333?style=flat&logo=netbeans)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-- ✨ &nbsp;
-  ![Scrum](https://img.shields.io/badge/-Scrum-333333?style=flat&logo=scrum)
-  ![Rup](https://img.shields.io/badge/-Rup-333333?style=flat&logo=rup)
-  ![XP](https://img.shields.io/badge/-XP-333333?style=flat&logo=xp)
-
 
 <br/>
