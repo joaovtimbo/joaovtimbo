@@ -8,7 +8,7 @@
 
 # How to reach me:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
-<a href="https://linkedin.com/in/joaovtimbo" target="blank"><img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="João Victor Timbó" width="30" /></a>
+<a href="https://linkedin.com/in/joaovtimbo" target="blank"><img height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="João Victor Timbó" width="30" /></a>
 </div>
 
 <p style="text-align: center; font-size: 1rem;" align='center'> João Victor Timbó | 👨‍💻 Front-End Developer | Brazil </p>
