@@ -28,7 +28,7 @@
  ## Front-End Technologies:
 <p>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
-<img height="50" src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue"/>
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
@@ -38,23 +38,15 @@
 </p>
 
 
- ## Back-End Technologies:
- 
-<code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="JAVA"/></code>
-<code><img height="50" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" alt="HBS"/></code>
-
-<code><img height="50" src="https://images.vexels.com/media/users/3/166470/isolated/lists/73835fa38fba6d35aff9de603dc5044a-icono-de-lenguaje-de-programacion-php.png" alt="HBS"/></code>
-
-
-<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png"/></code>
-<code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1-1174935.png"/></code>
-<code><img height="50" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"/></code>
-<code><img height="50" src="https://davidrengifo.files.wordpress.com/2017/09/mongodb-logo.png" alt="MONGO"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/albinagorta/albinagorta/main/assets/python.svg" alt="Python"/></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/postman-3521648-2945092.png" alt="POSTMAN"/></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase"/></code>
-<code><img height="50" src="https://argoitz.com/wp-content/uploads/2020/03/express-logo.png" alt="EXPRESS"/></code>
- <code><img height="50" src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="EJS"/></code> 
+ ## Other Technologies:
+<p>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript"/>
+</p>
 
 
 <br/>
