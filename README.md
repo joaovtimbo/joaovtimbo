@@ -65,7 +65,7 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovtimbo&show_icons=true&theme=algolia&line_height=29&hide=stars&count_private=true%22%20style=%22vertical-align:middle) -->
 
-- 💻 &nbsp; 
+- Programming Languages: &nbsp; 
 ![Csharp](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java) 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
