@@ -29,13 +29,13 @@
 <hr>
 
  ## Front-End Technologies:
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png" alt="React"/></code>
-<code><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="Sass"/></code>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React"/>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"/>
 
- 
+
  ## Back-End Technologies:
  
 <code><img height="50" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="JAVA"/></code>
