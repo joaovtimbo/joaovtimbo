@@ -1,13 +1,10 @@
+![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am João Victor Timbó 👨‍💻 
 
-![](https://img.shields.io/github/followers/albinagorta?label=follow&logo=github&style=flat-square)
-![GitHub User's stars](https://img.shields.io/github/stars/albinagorta?label=%E2%AD%90GitHub%20stars&style=flat-square)
-![](https://komarev.com/ghpvc/?username=albinagorta&style=flat-square&color=ff69b4)
-<a href="https://discord.gg/87722te4">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square&label=web%20dev%20community)</a>
-<a href="https://youtube.com/avideait">![Youtube](https://img.shields.io/badge/-Avideait-333333?style=flat&logo=youtube)</a>
-<!-- <h1 style="font-size: 2.5rem; font-weight: bold; text-align: center;" align='center'> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40px"> Hello World! <img src="https://media.giphy.com/media/fFEFxS3DE5VIY/giphy.gif" width="35px" /></h1>    -->
-
-![mi perfil](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+![](https://img.shields.io/github/followers/joaovtimbo?label=follow&logo=github&style=flat-square)
+![GitHub User's stars](https://img.shields.io/github/stars/joaovtimbo?label=%E2%AD%90GitHub%20stars&style=flat-square)
+![](https://komarev.com/ghpvc/?username=joaovtimbo&style=flat-square&color=ff69b4)
 
 # How to reach me:
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
