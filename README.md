@@ -67,8 +67,7 @@
 
 
 - 💻 &nbsp;
-  ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  <p><img height="10" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></p>
+  ![Java](	https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
 - 🌐 &nbsp;
