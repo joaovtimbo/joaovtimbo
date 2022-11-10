@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/joaovtimbo" target="blank"><img width="100" heigth="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="João Victor Timbó"/></a>
 </div>
 
-<p style="text-align: center; font-size: 1rem;" align='center'> João Victor Timbó | 👨‍💻 Front-End Developer | Brazil </p>
+<p style="text-align: center; font-size: 1rem;" align='center'> João Victor Timbó | 👨‍💻 Back-End Developer | Brazil </p>
 
 
 <br />
