@@ -47,14 +47,6 @@
 
 <br/>
 
-<br/>
-<div>
-<a href="https://github.com/albinagorta/albinagorta"><img alt="" src="https://github-readme-stats.vercel.app/api?username=joaovtimbo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://albinagorta.github.io/"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovtimbo&show_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</div>
-<br/>
-
-
 - **Programming Languages:** &nbsp;
 ![Csharp](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
