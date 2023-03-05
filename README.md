@@ -3,7 +3,7 @@
 <br>
 
 <h2 align=center>Hi! I'm João Silva.</h2>
-<h3 align=center>João Victor Timbó Martins da Silva | 👨‍ Back-End Developer | Brazil</h3>
+<h3 align=center>João Victor Timbó Martins da Silva | 👨‍💻 Back-End Developer | Brazil</h3>
 <br>
 <br>
 
